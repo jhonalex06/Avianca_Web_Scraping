@@ -1,0 +1,15 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - pandas=0.25.1=py37he6710b0_0
+  - pytz=2019.3=py_0
+  - numpy=1.17.2=py37haad9e8e_0
+  - numpy-base=1.17.2=py37hde5b4d6_0
+  - numpydoc=0.9.1=py_0
+  - matplotlib=3.1.1=py37h5429711_0
+  - pyparsing=2.4.2=py_0
+  - kiwisolver=1.1.0=py37he6710b0_0
+  - cycler=0.10.0=py37_0
+prefix: /home/shade/anaconda3
+
